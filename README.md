@@ -12,7 +12,7 @@ Install dependencies:
 $ npm install
 ```
 
-Start Express.js app at `http://localhost:3000/`:
+Start React app at `http://localhost:3000/`:
 
 ```bash
 $ npm start
